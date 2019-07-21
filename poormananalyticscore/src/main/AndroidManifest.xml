@@ -1,2 +1,6 @@
 <manifest
-        package="com.loststarventures.loststars.poormananalytics"/>
+        package="com.loststarventures.loststars.poormananalytics">
+    <application>
+
+    </application>
+</manifest>
